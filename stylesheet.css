@@ -1,0 +1,31 @@
+body {
+  background-color: #81D4FA;
+  text-align: center;
+}
+
+.font {
+  font-family: Garamond;
+}
+
+#head {
+  text-indent: 50px;
+
+}
+
+table, th, td {
+    border: 5px solid black;
+    border-collapse: collapse;
+    margin: auto;
+}
+
+td {
+  text-align: center;
+  padding: 6px;
+}
+
+.bright {
+  background-color: #4FC3F7;
+}
+.dark {
+background-color: #039BE5;
+}
