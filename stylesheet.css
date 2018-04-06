@@ -8,8 +8,15 @@ body {
 }
 
 #head {
-  text-indent: 50px;
+  font-size: 40px;
+}
 
+#bis {
+  margin-left: -255px;
+}
+
+#data {
+  font-weight: bold;
 }
 
 table, th, td {
