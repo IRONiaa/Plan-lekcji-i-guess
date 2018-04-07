@@ -1,5 +1,5 @@
 body {
-  background-color: #81D4FA;
+  background-color: #E1F5FE;
   text-align: center;
 }
 
@@ -12,10 +12,7 @@ body {
 }
 
 #bis {
-  margin-left: -255px;
-}
-
-#data {
+  margin-left: -176px;
   font-weight: bold;
 }
 
@@ -23,6 +20,7 @@ table, th, td {
     border: 5px solid black;
     border-collapse: collapse;
     margin: auto;
+    font-size: 25px;
 }
 
 td {
